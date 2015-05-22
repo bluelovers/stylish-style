@@ -27,7 +27,7 @@
 		display: inline-block;
 	}
 
-	.fbxWelcomeBoxImg, ._rw, .UFIActorImage, ._55lt img, .tickerStoryImage, .webMessengerMessageGroup ._8o .img, .anchorContainer ._33h._8o.img
+	.fbxWelcomeBoxImg, ._rw, .UFIActorImage, ._55lt img, .tickerStoryImage, .webMessengerMessageGroup ._8o .img, .anchorContainer ._33h._8o.img, .anchorContainer ._12u1.img
 	{
 		border-radius: 100% !important;
 
@@ -37,7 +37,7 @@
 		transition:  border-radius .20s ease-in-out;
 	}
 
-	.fbxWelcomeBoxImg:hover, ._rw:hover, .ego_unit:hover ._rw, ._5x46:hover ._rw, .UFIActorImage:hover, ._55lt img:hover, .pvs:hover ._55lt img, .messagesContent:hover ._55lt img, .tickerStoryImage:hover, .webMessengerMessageGroup:hover ._8o .img, .UFIRow.UFIComment:hover .UFIActorImage, .tickerStoryBlock:hover .tickerStoryImage, .anchorContainer ._33h._8o.img:hover, .anchorContainer:hover ._33h._8o.img
+	.fbxWelcomeBoxImg:hover, ._rw:hover, .ego_unit:hover ._rw, ._5x46:hover ._rw, .UFIActorImage:hover, ._55lt img:hover, .pvs:hover ._55lt img, .messagesContent:hover ._55lt img, .tickerStoryImage:hover, .webMessengerMessageGroup:hover ._8o .img, .UFIRow.UFIComment:hover .UFIActorImage, .tickerStoryBlock:hover .tickerStoryImage, .anchorContainer ._33h._8o.img:hover, .anchorContainer:hover ._33h._8o.img, .anchorContainer:hover ._12u1.img
 	{
 		border-radius: 5% !important;
 	}
