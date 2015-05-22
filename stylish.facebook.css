@@ -14,12 +14,12 @@
 
 	._5v3q ._5pbx p
 	{
-		margin: 0.75em 0 0;
+		margin: /*[[plineheight]]*/ 0 0;
 	}
 
 	._5v3q ._5pbx p, ._5v3q ._5pbx .text_exposed_show p:first-child, ._5v3q ._5pbx .text_exposed_root>p:last-of-type
 	{
-		margin-top: 0.75em;
+		margin-top: /*[[plineheight]]*/;
 	}
 
 	._5v3q ._5pbx>p:last-of-type, ._5v3q ._5pbx .text_exposed>p:first-child, ._5v3q ._5pbx .text_exposed>p:last-of-type
@@ -64,7 +64,7 @@
 
 	._4-u2:hover
 	{
-		border-color: #5782DA;
+		border-color: /*[[hovercolor]]*/;
 	}
 
 	.uiScrollableArea.ticker_container
