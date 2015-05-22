@@ -17,7 +17,12 @@
 		margin: 0.75em 0 0;
 	}
 
-	._5v3q ._5pbx>p:last-of-type
+	._5v3q ._5pbx p, ._5v3q ._5pbx .text_exposed_show p:first-child, ._5v3q ._5pbx .text_exposed_root>p:last-of-type
+	{
+		margin-top: 0.75em;
+	}
+
+	._5v3q ._5pbx>p:last-of-type, ._5v3q ._5pbx .text_exposed>p:first-child, ._5v3q ._5pbx .text_exposed>p:last-of-type
 	{
 		display: inline-block;
 	}
