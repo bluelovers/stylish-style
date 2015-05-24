@@ -22,9 +22,14 @@
 		margin-top: /*[[plineheight]]*/;
 	}
 
-	._5v3q ._5pbx>p:last-of-type, ._5v3q ._5pbx .text_exposed>p:first-child, ._5v3q ._5pbx .text_exposed>p:last-of-type
+	._5v3q ._5pbx>p:last-of-type, ._5v3q ._5pbx .text_exposed>p:first-child
 	{
 		display: inline-block;
+	}
+
+	._5v3q ._5pbx .text_exposed_root > p:last-of-type
+	{
+		display: block;
 	}
 
 	.fbxWelcomeBoxImg, ._rw, .UFIActorImage, ._55lt img, .tickerStoryImage, .webMessengerMessageGroup ._8o .img, .anchorContainer ._33h._8o.img, .anchorContainer ._12u1.img
